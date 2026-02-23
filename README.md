@@ -1,6 +1,7 @@
 # Hi there, I'm May-anne! 👋
 ### 🎓 BS Information Technology
 
+**Tech Stack & Tools:** 
 <!--
 **malcaroon/malcaroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

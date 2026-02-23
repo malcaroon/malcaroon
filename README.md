@@ -2,7 +2,7 @@
 ### 🎓 BS Information Technology
 
 **Tech Stack & Tools:** 
-## <img src="https://skillicons.dev/icons?i=html,css,js,java,figma,vscode" &theme=dark/>
+## <img src="https://skillicons.dev/icons?i=html,css,js,java,figma,vscode &theme=dark"/>
 
 
 
